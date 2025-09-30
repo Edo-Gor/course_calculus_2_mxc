@@ -1,4 +1,4 @@
-# Calculus 1
+# Calculus 2
 
 ## Repository description
 
