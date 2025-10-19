@@ -11,7 +11,7 @@ The code in this repository is developed to solve the exercises provided along t
 ## Structure
 
 - Section 02 : Intuition for integration
-- Section 04 : 
+- Section 04 : Geometric approximations
 - Section 06 : 
 - Section 08 : 
 - Section 09 : 
