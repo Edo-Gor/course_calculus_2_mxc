@@ -13,7 +13,7 @@ The code in this repository is developed to solve the exercises provided along t
 - Section 02 : Intuition for integration
 - Section 04 : Geometric approximations
 - Section 06 : Integrating functions
-- Section 08 : 
+- Section 08 : Improper integrals
 - Section 09 : 
 - Section 11 : 
 - Section 12 : 
