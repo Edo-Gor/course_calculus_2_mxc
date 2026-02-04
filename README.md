@@ -16,5 +16,5 @@ The code in this repository is developed to solve the exercises provided along t
 - Section 08 : Improper integrals
 - Section 09 : Integration techniques
 - Section 11 : Applications in geometry
-- Section 12 : 
+- Section 12 : Applications in statistics
 - Section 14 : 
